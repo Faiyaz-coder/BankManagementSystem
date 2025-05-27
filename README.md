@@ -42,3 +42,4 @@ BankManagementSystem/
 ├── .gitignore             # Git ignore file to exclude unnecessary files/folders from version control
 ├── README.md              # Project documentation and instructions
 └── requirements.txt       # List of Python dependencies (if any)
+
